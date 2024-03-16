@@ -1,6 +1,6 @@
 # 👨‍💼 HEMANT's Profile
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your_username.your_repo_name)](https://github.com/your_username/your_repo_name)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=heyymant.heyymant)](https://github.com/heyymant/heyymant)
 
 ## 📚 About Me
 I am a passionate graduate in Engineering Physics from the prestigious Indian Institute of Technology Bombay (IIT Bombay). With a solid foundation in physics, mathematics, and engineering principles, I have cultivated a keen interest in the intersection of quantitative finance and trading.
