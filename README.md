@@ -19,9 +19,9 @@ I am a passionate graduate in Engineering Physics from the prestigious Indian In
 - **Data Visualization:** Proficient in using tools like Matplotlib, Seaborn, and Plotly to visualize financial data and analysis results effectively.
 
 ## 🚀 Projects
-- **Quantitative Finance Toolbox:** Developed a comprehensive toolbox in Python/R for quantitative finance tasks, including time series analysis, option pricing, and portfolio optimization.
-- **Algorithmic Trading Strategies:** Implemented various algorithmic trading strategies, such as mean reversion, momentum trading, and pairs trading, and evaluated their performance using historical market data.
-- **Predictive Modeling for Stock Prices:** Built machine learning models to predict stock price movements based on historical price and volume data, incorporating features like technical indicators and market sentiment analysis.
+- **Portfolio Optimization Web App:** Developed a web application using Streamlit for portfolio optimization, allowing users to input their assets and constraints to generate an optimized portfolio allocation.
+- **Option Pricing with Black-Scholes Model:** Implemented the Black-Scholes option pricing model in Python to calculate the theoretical price of European options, considering factors like underlying asset price, strike price, time to expiration, volatility, and risk-free interest rate.
+- **Crypto Trading Bot using Binance API:** Built an automated trading bot using the Binance API to execute cryptocurrency trades based on predefined strategies and market conditions, incorporating features like moving average and bollinger bnds.
 
 ## 💡 Interests
 - **Quantitative Finance:** Fascinated by the application of mathematical and computational techniques to understand and exploit patterns in financial markets.
