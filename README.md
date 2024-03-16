@@ -8,7 +8,7 @@ I am a passionate graduate in Engineering Physics from the prestigious Indian In
 ## 🎓 Education
 - **Bachelor of Technology (B.Tech) in Engineering Physics**
   - *Indian Institute of Technology Bombay (IIT Bombay)*
-  - *Year of Graduation:2023
+  - *Year of Graduation :2023*
 
 ## 💼 Skills
 - **Quantitative Analysis:** Proficient in employing mathematical and statistical techniques to analyze financial data, model market behaviors, and derive insights.
