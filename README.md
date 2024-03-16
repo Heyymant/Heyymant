@@ -1,4 +1,4 @@
-# 👨‍💼 [Your Name]'s Profile
+# 👨‍💼 HEMANT's Profile
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=your_username.your_repo_name)](https://github.com/your_username/your_repo_name)
 
@@ -12,7 +12,7 @@ I am a passionate graduate in Engineering Physics from the prestigious Indian In
 
 ## 💼 Skills
 - **Quantitative Analysis:** Proficient in employing mathematical and statistical techniques to analyze financial data, model market behaviors, and derive insights.
-- **Programming Languages:** Skilled in Python, R, and MATLAB for quantitative analysis, algorithmic trading, and financial modeling.
+- **Programming Languages:** Skilled in Python,C++ for quantitative analysis, algorithmic trading, and financial modeling.
 - **Algorithmic Trading:** Experience in developing and implementing algorithmic trading strategies, including high-frequency trading algorithms.
 - **Machine Learning:** Knowledgeable in applying machine learning algorithms for financial forecasting, risk assessment, and trading strategies optimization.
 - **Financial Modeling:** Ability to create sophisticated financial models for asset valuation, portfolio management, and risk analysis.
