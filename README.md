@@ -1,6 +1,6 @@
 # 👨‍💼 HEMANT's Profile
 
-![Visitor Count](https://profile-counter.glitch.me/{Heyymant}/count.svg)
+
 
 ## 📚 About Me
 I am a passionate graduate in Engineering Physics from the prestigious Indian Institute of Technology Bombay (IIT Bombay). With a solid foundation in physics, mathematics, and engineering principles, I have cultivated a keen interest in the intersection of quantitative finance and trading.
@@ -37,4 +37,7 @@ I am a passionate graduate in Engineering Physics from the prestigious Indian In
 - Actively seeking opportunities to apply my skills and knowledge in real-world financial environments and contribute to innovative solutions in the field.
 
 Feel free to reach out if you have any questions, suggestions, or opportunities for collaboration!
+
+
+Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{Heyymant}/count.svg)
 
